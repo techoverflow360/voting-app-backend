@@ -1,2 +1,2 @@
-Backend of a Voting app
+Backend of a Voting app\n
 List of featues  : 
